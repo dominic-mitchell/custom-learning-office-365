@@ -106,6 +106,28 @@
   ],
   "Categories": [
     {
+      "Name": "Excutive Search",
+      "Security": "Visitors",
+      "Image": "",
+      "SubCategories": [
+        {
+          "Name": "First Days",
+          "Image": "images/categories/first_days.png"
+        },
+        {
+          "Name": "Featured",
+          "Image": "images/categories/featured.png"
+        },
+        {
+          "Name": "Recommended",
+          "Image": "images/categories/recommended.png"
+        },
+        {
+          "Name": "Transformation",
+          "Image": "images/categories/transformation.png"
+        }
+    
+    {
       "Name": "Get Started Playlists",
       "Security": "Visitors",
       "Image": "",
